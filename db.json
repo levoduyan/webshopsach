@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hệ Mặt Trời Ở Đâu?",
+      "price": 40000,
+      "image": "he_mat_troi_o_dau.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Khai Sáng Thời Hiện Đại ",
+      "price": "327000",
+      "image": "khai_sang_thoi_hien_dai.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Xin Được Nói Thẳng?",
+      "price": "141000",
+      "image": "xin_duoc_noi_thang.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tri Thức Về Vạn Vật",
+      "price": "454000",
+      "image": "tri_thuc_ve_van_vat.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Einstein – Cuộc Đời Và Vũ Trụ (Tái Bản 2018)",
+      "price": "225420",
+      "image": "enstein_cuoc_doi_va_vu_tru.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Con Mình Chẳng Lẽ Lại Vứt",
+      "price": "89000",
+      "image": "con_minh_chang_le_lai_vut.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Hackers Ielts Basic - Writing",
+      "price": "153000",
+      "image": "hackers_ielts_basic_writing.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Nhà Lãnh Đạo 360 Độ (Tái Bản 2019)",
+      "price": "119000",
+      "image": "nha_lanh_dao_360_do.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Nghệ Thuật Giao Tiếp Để Thành Công (Tái Bản)",
+      "price": "101400",
+      "image": "nghe_thuat_giao_tiep_de_thanh_cong.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Cây Cam Ngọt Của Tôi",
+      "price": "67000",
+      "image": "cay_cam_ngot_cua_toi.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Bí Quyết Ứng Tuyển Vào Harvard",
+      "price": "53000",
+      "image": "bi_quyet_ung_tuyen_vao_harvard.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Combo 6 Cuốn: Đọc Chữa Lành",
+      "price": "257300",
+      "image": "combo_6_cuon_doc_chua_lanh.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Quan Trọng Là Thần Thái",
+      "price": "69000",
+      "image": "quan_trong_la_than_thai.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Im Lặng Không Làm Ta Vô Can",
+      "price": "90000",
+      "image": "im_lang_khong_lam_ta_vo_can.jpg"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "user": "Dũng",
+      "prices": 188000,
+      "date": "2022-03-18T17:26:48.435Z"
+    },
+    {
+      "id": 2,
+      "user": "Kiều",
+      "prices": 437000,
+      "date": "2022-03-18T17:31:10.459Z"
+    },
+    {
+      "id": 3,
+      "user": "Huy",
+      "prices": 128000,
+      "date": "2022-03-18T17:31:54.302Z"
+    }
+  ],
+  "users": {
+    "user": "admin",
+    "password": "admin"
+  }
+}
